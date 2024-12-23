@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lroy-stack/ELFi-review.git/static/css/main.e6c13ad2.css",
+    "main.js": "/lroy-stack/ELFi-review.git/static/js/main.96d6efa6.js",
+    "static/js/488.a0bf8f15.chunk.js": "/lroy-stack/ELFi-review.git/static/js/488.a0bf8f15.chunk.js",
+    "index.html": "/lroy-stack/ELFi-review.git/index.html",
+    "main.e6c13ad2.css.map": "/lroy-stack/ELFi-review.git/static/css/main.e6c13ad2.css.map",
+    "main.96d6efa6.js.map": "/lroy-stack/ELFi-review.git/static/js/main.96d6efa6.js.map",
+    "488.a0bf8f15.chunk.js.map": "/lroy-stack/ELFi-review.git/static/js/488.a0bf8f15.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.96d6efa6.js"
+  ]
+}
